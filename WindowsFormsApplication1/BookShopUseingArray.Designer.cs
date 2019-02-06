@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication1
 {
-    partial class Form1
+    partial class BookShopUseingArray
     {
         /// <summary>
         /// Required designer variable.
